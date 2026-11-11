@@ -37,8 +37,7 @@ Eu chamo Arthur Vínicius, tenho 18 anos e sou natural do Paraná. Concluí o en
 
 ---
 
-### 📊 Estatísticas
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=7thur&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/7thur)
-
-[![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=7thur&layout=compact&theme=tokyonight)](https://github.com/7thur)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=7thur&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7thur&layout=compact&theme=tokyonight" alt="Linguagens Mais Utilizadas" />
+</p>
