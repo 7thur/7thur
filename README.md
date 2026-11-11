@@ -9,6 +9,8 @@
 
 Eu chamo Arthur Vínicius, tenho 18 anos e sou natural do Paraná. Concluí o ensino médio no CCM Alfredo Chaves, com o curso técnico em informática, HTML5, CSS3 e Introdução à cibersegurança. Atualmente, estudo Análise e Desenvolvimento de Sistemas na UniCuritiba. Sou apaixonado por tecnologia desde a infância.
 
+[![Portfólio](https://img.shields.io/badge/Meu_Portfólio-0056b3?style=for-the-badge&logo=firefox&logoColor=white)](https://meuportifolioav.netlify.app/)
+
 <!-- Badge de seguidores numa linha isolada abaixo do texto -->
 <p>
   <a href="https://github.com/7thur?tab=followers">
