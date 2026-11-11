@@ -11,7 +11,11 @@ Eu chamo Arthur Vínicius, tenho 18 anos e sou natural do Paraná. Concluí o en
 
 [![Portfólio](https://img.shields.io/badge/Meu_Portfólio-0056b3?style=for-the-badge&logo=firefox&logoColor=white)](https://meuportifolioav.netlify.app/)
 
-<!-- Badge de seguidores numa linha isolada abaixo do texto -->
+<p>
+  <a href="O_TEU_LINK_DO_LINKEDIN_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 <p>
   <a href="https://github.com/7thur?tab=followers">
     <img src="https://img.shields.io/github/followers/ArthurVinicius?label=SEGUIDORES&style=for-the-badge&logo=github&logoColor=white&color=0056b3" alt="Seguidores" />
